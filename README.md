@@ -26,8 +26,8 @@
 - بوت ينشر تلقائيًا على فيسبوك
 
 ## تواصل معي
-- [LinkedIn](https://www.linkedin.com/) *(ضيف رابطك لما تنشئه)*
-- Email: abdullah@example.com *(غيّر للإيميل اللي تحب يظهر)*
+- [Telegram](telegram.com/@AbdullahSy94)
+- Email: devabdullahsy@gmail.com
 
 ---
 
