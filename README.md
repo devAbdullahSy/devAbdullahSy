@@ -26,7 +26,7 @@
 - بوت ينشر تلقائيًا على فيسبوك
 
 ## تواصل معي
-- [Telegram](telegram.com/@AbdullahSy94)
+- [Telegram](https://t.me/AbdullahSy94)
 - Email: devabdullahsy@gmail.com
 
 ---
