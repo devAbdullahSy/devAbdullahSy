@@ -21,12 +21,10 @@
 - الانتقال لتعلم JavaScript بمشروع عملي
 
 ## المشاريع القادمة
-- تصميم صفحات هبوط (Landing Pages)
-- مشروع تقويم المهام (Task Calendar)
-- بوت ينشر تلقائيًا على فيسبوك
+- soon
 
 ## تواصل معي
-- [Telegram](https://t.me/AbdullahSy94)
+- X (Twitter): [@_abdullahsy](https://x.com/_abdullahsy)
 - Email: devabdullahsy@gmail.com
 
 ---
