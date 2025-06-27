@@ -24,7 +24,7 @@
 - soon
 
 ## تواصل معي
-- X (Twitter): [@_abdullahsy](https://x.com/_abdullahsy)
+- X (Twitter): [@AbdullahSy1994](https://x.com/AbdullahSy1994)
 - Email: devabdullahsy@gmail.com
 
 ---
